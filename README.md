@@ -3,7 +3,7 @@
 
 ## 🌱 \<SeSAC Hub>를 통해 "청년취업사관학교 도봉캠퍼스"의 공간 예약 및 전용 커뮤니티 서비스를 이용해보세요 🌱
 
-팀 작업 규칙, 컨벤션, 산출물(ERD, FIGMA, API 리스트 등)은 [![wiki](http://img.shields.io/badge/-GitHub%20WiKi-black?style=flat&logo=github&logoColor=white&link=https://github.com/sabb12/sesachub/wiki)](https://github.com/sabb12/sesachub/wiki)를 확인해 주세요.
+팀 작업 규칙, 컨벤션, 산출물(ERD, FIGMA, API 리스트 등)은 [![wiki](http://img.shields.io/badge/-GitHub%20WiKi-black?style=flat&logo=github&logoColor=white&link=https://github.com/purple11-11/sesachub/wiki)](https://github.com/purple11-11/sesachub/wiki)를 확인해 주세요.
 
 <br>
 <img src="./static/images/readme/image.png" alt="sesachub 메인페이지"/>
@@ -13,7 +13,7 @@
 
 ### 작업 기간 : 2024.02.26 ~ 2024.03.13 (약 2주 반)
 
-### 인원 : 4명 (프론트엔드 2명, 프론트 & 백 2명)
+### 인원 : 4명 (프론트엔드 2명, 풀스택 2명)
 
 ### 관리자 로그인 (모든 기능 사용 가능)
 
