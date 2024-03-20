@@ -26,6 +26,7 @@
 - 풀스택 개발	
  ![image](https://github.com/sabb12/sesachub/assets/125553827/0c435f40-dc80-41c5-937c-dc51d9ba0f22)	
 
+- 발표 자료 제작 및 발표
 - 리드미 작성, 시연 영상 제작
 
 <br>
