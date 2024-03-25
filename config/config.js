@@ -12,7 +12,7 @@ const prod = {
     username: process.env.DB_USERNAME,
     password: process.env.DB_PASSWORD,
     database: "sesac",
-    host: "115.85.183.123", // NCP 서버 공인 IP
+    host: "118.67.134.103", // NCP 서버 공인 IP
     dialect: "mysql",
 };
 
